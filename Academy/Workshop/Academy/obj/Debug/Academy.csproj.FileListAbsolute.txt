@@ -1,0 +1,6 @@
+C:\Users\B_11794\Documents\Telerik\Unit Testing 2017\Unit-Testing-master\Unit-Testing-master\Topics\05. Workshop (Students)\Academy\Workshop\Academy\bin\Debug\Academy.exe.config
+C:\Users\B_11794\Documents\Telerik\Unit Testing 2017\Unit-Testing-master\Unit-Testing-master\Topics\05. Workshop (Students)\Academy\Workshop\Academy\bin\Debug\Academy.exe
+C:\Users\B_11794\Documents\Telerik\Unit Testing 2017\Unit-Testing-master\Unit-Testing-master\Topics\05. Workshop (Students)\Academy\Workshop\Academy\bin\Debug\Academy.pdb
+C:\Users\B_11794\Documents\Telerik\Unit Testing 2017\Unit-Testing-master\Unit-Testing-master\Topics\05. Workshop (Students)\Academy\Workshop\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Users\B_11794\Documents\Telerik\Unit Testing 2017\Unit-Testing-master\Unit-Testing-master\Topics\05. Workshop (Students)\Academy\Workshop\Academy\obj\Debug\Academy.exe
+C:\Users\B_11794\Documents\Telerik\Unit Testing 2017\Unit-Testing-master\Unit-Testing-master\Topics\05. Workshop (Students)\Academy\Workshop\Academy\obj\Debug\Academy.pdb
