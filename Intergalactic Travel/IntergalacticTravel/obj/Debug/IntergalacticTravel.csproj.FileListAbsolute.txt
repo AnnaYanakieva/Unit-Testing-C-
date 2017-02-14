@@ -1,0 +1,12 @@
+C:\Users\B_11794\Documents\Telerik\Unit Testing 2017\Unit-Testing-master\Unit-Testing-master\Topics\06. Exam (Skeleton)\IntergalacticTravel\bin\Debug\IntergalacticTravel.dll
+C:\Users\B_11794\Documents\Telerik\Unit Testing 2017\Unit-Testing-master\Unit-Testing-master\Topics\06. Exam (Skeleton)\IntergalacticTravel\bin\Debug\IntergalacticTravel.pdb
+C:\Users\B_11794\Documents\Telerik\Unit Testing 2017\Unit-Testing-master\Unit-Testing-master\Topics\06. Exam (Skeleton)\IntergalacticTravel\obj\Debug\IntergalacticTravel.csprojResolveAssemblyReference.cache
+C:\Users\B_11794\Documents\Telerik\Unit Testing 2017\Unit-Testing-master\Unit-Testing-master\Topics\06. Exam (Skeleton)\IntergalacticTravel\obj\Debug\IntergalacticTravel.dll
+C:\Users\B_11794\Documents\Telerik\Unit Testing 2017\Unit-Testing-master\Unit-Testing-master\Topics\06. Exam (Skeleton)\IntergalacticTravel\obj\Debug\IntergalacticTravel.pdb
+C:\Users\B_11794\Desktop\06. Exam (Skeleton)\IntergalacticTravel\bin\Debug\IntergalacticTravel.dll
+C:\Users\B_11794\Desktop\06. Exam (Skeleton)\IntergalacticTravel\bin\Debug\IntergalacticTravel.pdb
+C:\Users\B_11794\Desktop\06. Exam (Skeleton)\IntergalacticTravel\bin\Debug\nunit.framework.dll
+C:\Users\B_11794\Desktop\06. Exam (Skeleton)\IntergalacticTravel\bin\Debug\nunit.framework.xml
+C:\Users\B_11794\Desktop\06. Exam (Skeleton)\IntergalacticTravel\obj\Debug\IntergalacticTravel.csprojResolveAssemblyReference.cache
+C:\Users\B_11794\Desktop\06. Exam (Skeleton)\IntergalacticTravel\obj\Debug\IntergalacticTravel.dll
+C:\Users\B_11794\Desktop\06. Exam (Skeleton)\IntergalacticTravel\obj\Debug\IntergalacticTravel.pdb
